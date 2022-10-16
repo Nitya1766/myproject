@@ -1,0 +1,34 @@
+{
+  "employee": [
+    {
+      "name": "ranjan",
+      "age": 23,
+      "address": "gaya",
+      "gf name": "priya"
+    },
+    {
+      "name": "sudheer",
+      "age": 24,
+      "address": "karnatka",
+      " gf name": "sital"
+    },
+    {
+      "name": "vishal",
+      "age": 24,
+      "address": "delhi",
+      "gf name": "khushi"
+    },
+    {
+      "name": "Abhay",
+      "age": 25,
+      "address": "delhi",
+      "gf name": "payal"
+    },
+    {
+      "name": "nitya",
+      "age": 24,
+      "address": "delhi",
+      "gf name": "anuj"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.nav{
+  background-color: gray;
+  width: 100%;
+  padding: 10px;
+
+}
+a{
+  text-decoration: none;
+  font-size: 18px;
+  color: antiquewhite;
+  margin: 30px;
+}
+.active_class{
+  color: white;
+  border-bottom: 2px solid red;
+}
+.form-input{
+  background-color: gray;
+  margin-top: 30px;
+  width: 350px;
+  height: 350px;
+  box-shadow: 4px 6px 10px gray;
+}
+
+input{
+  border: 0px;
+  outline: none;
+  width: 250px;
+  padding: 8px;
+  margin-top: 20px;
+  margin-left: 40px;
+  box-shadow: inset 4px 6px 10px gray;
+} 
+form{
+  display: flex;
+  justify-content: center;
+}
+button{
+  margin-left: 120px;
+  padding: 7px;
+  width: 100px;
+
+}
+.text-center{
+  text-align: center;
+  font-size: 28px;
+  color: white;
+  margin-top: 10px;
+  font-weight: bold;
+  text-decoration: underline;
+
+}
+table{
+  margin-top: 10px;
+  margin-left: 20px;
+  width: 500px;
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+.btn{
+  background-color: brown;
+  width: 20px;
+  padding: 5px;
+  margin: 5px;
+  color: white;
+  text-align: center;
+  cursor: pointer;
+}
+.About{
+  background-color: whitesmoke;
+  height: 500px;
+  width: 100%;
+
+}
+.welcome{
+  
+  text-align: center;
+  padding-top: 30px;
+  color: black;
+
+}
+.img{
+  margin-left: 50px;
+  width: 400px;
+  height: 300px;
+}
+.about-para{
+  margin-top: 80px;
+  display: flex;
+  gap: 50px;
+  font-size: 20px;
+}
+.back-home{
+  color:blue;
+  text-decoration: underline;
+  text-align: center;
+  font-size: 18px;
+}
+.welcome h1{
+  text-align: center;
+  color: brown;
+}
+.welcome p{
+  font-size: 20px;
+
+}
+.service h1{
+  text-align: center;
+  color: purple;
+  
+}
+.service p{
+  font-size: 20px;
+  margin: 20px;
+  padding: 20px;
+  margin-left: 500px;
+}
+.service img{
+  
+}

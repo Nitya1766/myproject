@@ -1,0 +1,18 @@
+{
+  "employee": [
+    {
+      "name": "nitya",
+      "email": "nitya@gmail.com",
+      "contact": "88978987",
+      "address": "noida",
+      "id": 2
+    },
+    {
+      "name": "rakesh",
+      "email": "rakesh@gmail.com",
+      "contact": "809897876",
+      "address": "delhi",
+      "id": 3
+    }
+  ]
+}
